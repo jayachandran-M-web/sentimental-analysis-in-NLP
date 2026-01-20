@@ -31,4 +31,4 @@ Technologies Used
 
 6.Support Vector Machine (SVM)
 
-7.Jupyter Notebook
+7.Google colab
